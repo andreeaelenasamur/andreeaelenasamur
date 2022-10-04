@@ -45,3 +45,4 @@
 ![microsoftpowerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
+https://github-readme-stats.vercel.app/api?username={andreeaelenasamur}
