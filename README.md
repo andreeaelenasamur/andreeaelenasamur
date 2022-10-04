@@ -24,9 +24,13 @@
 ![sass](https://img.shields.io/badge/SASS-DF46A2?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7C0FC1?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind-0DABCE?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ---
 ### Back-End Development
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![rubyonrails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ---
 ### Database
 ![sqlite](https://img.shields.io/badge/SQLite-19A2CA?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -45,4 +49,8 @@
 ![microsoftpowerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-https://github-readme-stats.vercel.app/api?username={andreeaelenasamur}
+![](https://github-readme-stats.vercel.app/api?username=andreeaelenasamur)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreeaelenasamur&show_icons=true&locale=en&layout=compact" alt="andreeaelenasamur" /></p>
+
+
